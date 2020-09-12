@@ -1,4 +1,4 @@
-# ATR_Trailing_Stop_Indicator
+# ATR_Trailing_Stop_Indicator_Backtrader
 
 This is an indicator that simulates that of a continuous trailing stop. Rather than basing the calculation off of a trade entry, this indicator is calculated using the candle close price and the average true range at that point multiplied by a number of the user's choice.
 An indicator explanation can be found here:
